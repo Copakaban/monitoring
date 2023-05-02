@@ -1,4 +1,5 @@
-# monitoring
+# monitoring  
+https://github.com/netology-code/smon-homeworks/blob/main/hw-01.md  
 **Задание 1.**  
 ![image](https://user-images.githubusercontent.com/118304300/235680646-a931ec11-611c-454e-ba9f-ea7d4afcb383.png)
 ![image](https://user-images.githubusercontent.com/118304300/235680854-270545ee-5304-4640-8fd1-20acae362240.png)
